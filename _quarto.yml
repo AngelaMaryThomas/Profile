@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Profile"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: edu.qmd
+        text: Education
+      - href: skills.qmd
+        text: Skills
+      - href: workshop.qmd
+        text: Workshops
+      - href: project.qmd
+        text: Projects
+
+format:
+  html:
+    theme: materia
+    css: styles.css
+    toc: true
+    
+  
+
+
+

@@ -1,0 +1,13 @@
+---
+title: "PROJECTS"
+title-block-banner: true
+---
+
+
+
+<span style=" font-weight:bold;font-size:19px;">Quarto-Blog </span>
+
+
+<span style=" font-weight:bold;font-size:19px;">Tic Tac Toe game -Python</span>
+
+

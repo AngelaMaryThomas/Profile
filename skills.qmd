@@ -1,0 +1,41 @@
+---
+title : "SKILLS"
+title-block-banner: true
+---
+## Technical Skills 
+
+::: {.text-center}
+![](ja.png){width=150px style="display: inline-block; margin-right: 20px;"}
+![](py.jfif){width=150px style="display: inline-block; margin-right: 20px;"}
+![](c.png){width=150px style="display: inline-block;"}
+:::
+
+::: {.text-center}
+![](h,c,j.jfif){width=200px height=200px style="display: inline-block; margin-right: 20px;"}
+![](git.png){width=150px style="display: inline-block; margin-right: 20px;" }
+:::
+
+
+## Soft Skills
+
+
+::: {.text-center}
+<span style="display: inline-block; margin-right: 50px; font-weight: bold; font-size: 20px;">Team Work</span>
+<span style="display: inline-block; margin-right: 50px; font-weight: bold; font-size: 20px;">Problem Solving</span>
+<span style="display: inline-block; font-weight: bold; font-size: 20px;">Creativity</span>
+
+
+<span style="display: inline-block; margin-right: 50px; font-weight: bold; font-size: 20px;">Adaptability</span>
+<span style="display: inline-block; margin-right: 50px; font-weight: bold; font-size: 20px;">Communication Skills</span>
+<span style="display: inline-block; font-weight: bold; font-size: 20px;">Critical Thinking</span>
+
+:::
+
+
+
+
+
+
+
+
+

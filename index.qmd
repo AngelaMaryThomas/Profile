@@ -1,0 +1,27 @@
+---
+title: "Angela Mary Thomas"
+about:
+  template: jolla
+  image : pic.jpg
+  image-width: 10em  
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: www.linkedin.com/in/angela-mary-thomas-30818128a/
+    - icon: github
+      text: Github
+      href: https://github.com/AngelaMaryThomas       
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/angela_mary_t?igsh=MTkyeTJhaHR5ZHAycg==
+    
+---
+
+I'm a second-year B.Tech Computer Science Engineering student at Saintgits College of Engineering, driven by a passion for innovation and technology. My journey is centered around mastering web development, data structures and algorithms , and machine learning. With a keen interest in exploring cutting-edge technologies, I'm committed to building a solid foundation for a future in tech. Beyond the code, I thrive on solving complex problems, staying curious, and constantly challenging myself to learn and grow. I'm excited to contribute to transformative projects and make an impact in the world of technology.
+
+
+
+
+
+
+

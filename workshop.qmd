@@ -1,0 +1,23 @@
+---
+title: "WORKSHOPS"
+title-block-banner: true
+---
+
+
+<span style="background-color: #d1cfe2; font-weight:bold;font-size:19px;">-End-to-End Machine-Learning Project :  July 2024</span>
+
+
+
+
+
+
+<span style="background-color:#d1cfe2; font-weight:bold;font-size:19px;">-WorkShop on NetWork-Essentials : October 2023</span>
+
+
+
+
+
+
+<span style=" background-color:#d1cfe2;font-weight:bold;font-size:19px;">-PMI Kerala Chapter: September 2023</span>
+
+

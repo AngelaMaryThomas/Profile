@@ -1,0 +1,42 @@
+---
+title : "Educational Qualification"
+title-block-banner: true
+description-title: Educational Qualification
+---
+
+
+
+## Btech Computer Science and Engineering
+- **College:** Saintgits College of Engineering,Kottayam
+
+- **Year:** 2023-2027
+
+- **CGPA:** 9.81(S2)
+
+---
+
+
+
+
+## Class 12
+- **School:** Baker Memorial GHSS,Kottayam
+
+- **Year:** 2021-2023
+
+- **Percentage:** 99%
+
+---
+
+
+
+
+## Class 10
+- **School:** Baker Vidyapeedh,Kottayam
+
+- **Year:** 2020-2021
+
+- **Percentage:** 94%
+
+
+---
+
